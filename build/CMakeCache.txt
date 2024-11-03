@@ -229,6 +229,9 @@ CMAKE_TAPI:FILEPATH=CMAKE_TAPI-NOTFOUND
 // Studio IDE projects all commands are done without /nologo.
 CMAKE_VERBOSE_MAKEFILE:BOOL=FALSE
 
+//Use task_scheduler.cpp
+USE_TASK_SCHEDULER:BOOL=OFF
+
 //Value Computed by CMake
 vk_BINARY_DIR:STATIC=/home/ualdrm/Studies/VK/build
 
