@@ -1,0 +1,3 @@
+/home/ualdrm/Studies/VK/build/CMakeFiles/vk.dir
+/home/ualdrm/Studies/VK/build/CMakeFiles/edit_cache.dir
+/home/ualdrm/Studies/VK/build/CMakeFiles/rebuild_cache.dir
